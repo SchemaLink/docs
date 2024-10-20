@@ -1,0 +1,8 @@
+title: SchemaLink
+description: A web application to assist LinkML developers in drawing schemas.
+theme: just-the-docs
+
+url: https://schemalink.github.io/docs/
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
